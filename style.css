@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url('asset2.jpg');
+    background-repeat: no-repeat;
+    background-position:0%;
+    background-size: cover;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(101, 98, 112, 0.3);
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow:rgb(121, 102, 188,0.1);
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  #display {
+    font-size: 24px;
+    margin-bottom: 20px;
+    
+  }
+  
+  #author {
+    font-size: 18px;
+    font-style: italic;
+  }
+  
+  .btn {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: rgb(216, 255, 45,)
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #ffa000;
+  }
+  
